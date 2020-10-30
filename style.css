@@ -1,0 +1,108 @@
+body{
+color: #40514E;
+  text-align: center;
+  font-family: sans-serif;
+
+}
+h1{
+  padding-top: 5%;
+padding-left: 3%;
+font-family: 'Dancing Script', cursive;
+font-size: 300%;
+color: #66BFBF;
+
+
+}
+h2{
+  font-family: 'Dancing Script', cursive;
+  font-size: 200%;
+  color: #66BFBF;
+}
+h3{
+  font-family: 'Dancing Script', cursive;
+  font-size: 150%;
+  color: #11999E;
+}
+h4{
+    font-family: serif;
+    font-size: 100%;
+    color: #11999E;
+}
+.top-container{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+  margin:  10% 0;
+  background-color:#f0f5f9;
+
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 10px 10px 20px 10px;
+}
+a{
+  margin: 0 10px;
+}
+
+
+
+p{
+
+  padding-top: 0;
+  padding-left: 3%;
+font-family: 'Caveat', cursive;
+font-size: 200%;
+
+}
+.circular{
+  border-radius: 100%;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+
+}
+.top-cloud{
+  position:absolute;
+  right: 300px;
+
+
+}
+
+
+.linkedin{
+  height: 5%;
+  width: 5%;
+
+}
+.gmail{
+  height: 5%;
+  width: 5%;
+
+}
+.twitter{
+  height: 5%;
+  width: 5%;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+
+}
+.webdesign{
+  width: 30%;
+  float: left;
+  margin-right: 20px;
+
+
+}
+.TT{
+    width: 30%;
+    float: right;
+
+
+}
